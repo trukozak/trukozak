@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Alex!
-👩‍💻 I am junior frontend developer 💼 HTML / CSS/ JS / REACT
+👩‍💻 I am frontend developer 💼 HTML / CSS/ JS / REACT
 
 🌱 I’m currently learning Node.js
 
