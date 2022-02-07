@@ -1,9 +1,7 @@
 ### Hi there 👋, my name is Alex!
-👩‍💻 I am front-end developer 💼 HTML / CSS/ JS / REACT
+👩‍💻 I am front-end developer 💼 HTML / CSS/ JS / REACT / TS / NODE.JS
 
-🌱 I’m currently learning Node.js
-
-⚡ Looking for a job
+🌱 I’m currently TS and NEXT.JS
 
 <!--
 **trukozak/trukozak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
